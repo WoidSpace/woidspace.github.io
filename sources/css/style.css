@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
-  background-image:  url(./sources/bg.png);
+  background-image:  url(./sources/bg.jpg);
   z-index: 997;
   padding: 15px 0;
   border-bottom: 1px solid #e6f2fb;
